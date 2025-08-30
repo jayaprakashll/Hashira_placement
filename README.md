@@ -12,4 +12,3 @@ The assignment restricts solutions to **C++** (no Python, no external libraries)
 
 ---
 
-## 📂 Directory Structure
