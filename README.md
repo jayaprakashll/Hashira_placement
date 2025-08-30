@@ -12,3 +12,5 @@ The assignment restricts solutions to **C++** (no Python, no external libraries)
 
 ---
 
+to run the code solve.cpp
+complile the code and make ./solve < the_test_case.json
