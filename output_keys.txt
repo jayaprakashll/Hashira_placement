@@ -1,1 +1,12 @@
 
+Output for TestCase - 1
+Answer: 2
+
+Output for TestCase - 2
+Answer: 79836264049851
+
+Wrong Data Set Points for Test Case-1 :
+Answer: x = 6
+
+Wrong Data Set Points for Test Case-2 :
+Answer: x = 2, x = 8
